@@ -1,3 +1,5 @@
+// Playback of MP3 files from SD card using I2S output and PCM5102 DAC
+
 #include "Arduino.h"
 
 #define LED_GPIO_NUM    34

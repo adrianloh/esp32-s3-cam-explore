@@ -1,3 +1,5 @@
+// Using an interrupt to toggle the state of onboard LED when onboard SW1 button is pressed
+
 #include <Arduino.h>
 
 #define BOARD_GREEN_LED 34 // Active LOW
